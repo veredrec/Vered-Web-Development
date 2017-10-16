@@ -1,0 +1,23 @@
+{
+  "name": "vered-web-development",
+  "version": "1.0.0",
+  "description": "portfolio web app",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veredrec/Vered-Web-Development.git"
+  },
+  "author": "Vered Rekanati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veredrec/Vered-Web-Development/issues"
+  },
+  "homepage": "https://github.com/veredrec/Vered-Web-Development#readme"
+}
