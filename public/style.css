@@ -1,3 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+.home {
+  background-image: url("./images/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 button {
   background-color: #64BD38;
 }
