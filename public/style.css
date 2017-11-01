@@ -1,12 +1,30 @@
 html, body {
+  background: #000;
+  height: 100vh;
   margin: 0;
   padding: 0;
+  font-family: 'Maven Pro', sans-serif;
 }
-.home {
-  background-image: url("./images/background.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
+.navbar {
+  display: flex;
+  justify-content: flex-end;
 }
 button {
-  background-color: #64BD38;
+  background-color: #000;
+  border: none;
+  color: #FFF;
+  margin: 1em 2em;
+  font-family: 'Maven Pro', sans-serif;
+}
+.home {
+  /*height: 70vh;*/
+}
+.home-text {
+  color: #FFF;
+  margin-top: 30vh;
+  text-align: center;
+}
+.bubble {
+  width: 10em;
+  height: auto;
 }
