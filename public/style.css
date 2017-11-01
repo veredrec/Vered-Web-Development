@@ -3,7 +3,7 @@ html, body {
   height: 100vh;
   margin: 0;
   padding: 0;
-  font-family: 'Maven Pro', sans-serif;
+  font-family: 'Karla', sans-serif;
 }
 .navbar {
   display: flex;
@@ -14,10 +14,7 @@ button {
   border: none;
   color: #FFF;
   margin: 1em 2em;
-  font-family: 'Maven Pro', sans-serif;
-}
-.home {
-  /*height: 70vh;*/
+  font-family: 'Karla', sans-serif;
 }
 .home-text {
   color: #FFF;
