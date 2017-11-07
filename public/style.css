@@ -15,6 +15,7 @@ button {
   color: #FFF;
   margin: 1em 2em;
   font-family: 'Karla', sans-serif;
+  outline: none
 }
 .home-text {
   color: #FFF;
@@ -24,4 +25,20 @@ button {
 .bubble {
   width: 10em;
   height: auto;
+}
+.portfolio {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.projects {
+  position: relative;
+}
+.project-image {
+  width: 5em;
+}
+.project-title {
+  position: absolute;
+  top: 2em;
+  left: 2em;
 }
